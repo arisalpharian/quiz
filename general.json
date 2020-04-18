@@ -1,6 +1,6 @@
 const questions = [
   {
-    question: "Planet kelima dari matahari adalah..",
+    question: "Planet kelima dari matahari adalah...",
     answers: [
       { id: "1", text: "Mars" },
       { id: "2", text: "Jupiter", correct: true },
