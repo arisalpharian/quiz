@@ -232,12 +232,12 @@
             },
             {
                "id":"3",
-               "text":"Nil"
+               "text":"Nil",
+               "correct":true
             },
             {
                "id":"4",
-               "text":"Amazon",
-               "correct":true
+               "text":"Amazon"
             }
          ]
       },
