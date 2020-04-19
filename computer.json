@@ -22,7 +22,7 @@
          ]
       },
       {
-         "question":"Mengetikan huruf atau angka menggunakan…",
+         "question":"Mengetikkan huruf atau angka menggunakan…",
          "answers":[
             {
                "id":"1",
@@ -34,7 +34,8 @@
             },
             {
                "id":"3",
-               "text":"Keyboard"
+               "text":"Keyboard",
+               "correct":true
             },
             {
                "id":"4",
@@ -51,7 +52,8 @@
             },
             {
                "id":"2",
-               "text":"Mouse"
+               "text":"Mouse",
+               "correct":true
             },
             {
                "id":"3",
@@ -68,7 +70,8 @@
          "answers":[
             {
                "id":"1",
-               "text":"Paint"
+               "text":"Paint",
+               "correct":true
             },
             {
                "id":"2",
@@ -89,7 +92,8 @@
          "answers":[
             {
                "id":"1",
-               "text":"Fill with color"
+               "text":"Fill with color",
+               "correct":true
             },
             {
                "id":"2",
@@ -118,7 +122,8 @@
             },
             {
                "id":"3",
-               "text":"Eraser"
+               "text":"Eraser",
+               "correct":true
             },
             {
                "id":"4",
@@ -143,7 +148,8 @@
             },
             {
                "id":"4",
-               "text":"Wordpad"
+               "text":"Wordpad",
+               "correct":true
             }
          ]
       },
@@ -156,7 +162,8 @@
             },
             {
                "id":"2",
-               "text":"Enter"
+               "text":"Enter",
+               "correct":true
             },
             {
                "id":"3",
@@ -173,7 +180,8 @@
          "answers":[
             {
                "id":"1",
-               "text":"Delete"
+               "text":"Delete",
+               "correct":true
             },
             {
                "id":"2",
@@ -206,7 +214,8 @@
             },
             {
                "id":"4",
-               "text":"ASDE"
+               "text":"ASDE",
+               "correct":true
             }
          ]
       },
@@ -219,7 +228,8 @@
             },
             {
                "id":"2",
-               "text":"Shift dan tombol angka 1"
+               "text":"Shift dan tombol angka 1",
+               "correct":true
             },
             {
                "id":"3",
@@ -244,7 +254,8 @@
             },
             {
                "id":"3",
-               "text":"Capslock"
+               "text":"Capslock",
+               "correct":true
             },
             {
                "id":"4",
@@ -261,7 +272,8 @@
             },
             {
                "id":"2",
-               "text":"Space"
+               "text":"Space",
+               "correct":true
             },
             {
                "id":"3",
@@ -290,7 +302,8 @@
             },
             {
                "id":"4",
-               "text":"*"
+               "text":"*",
+               "correct":true
             }
          ]
       }
