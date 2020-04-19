@@ -1,4 +1,5 @@
-{
+[
+  {
   "question": "",
   "answers": [
     {
@@ -22,4 +23,5 @@
       "correct": true
     }
   ]
-}
+  }
+]
