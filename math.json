@@ -1,4 +1,5 @@
-{
+[
+  {
     question:
       "Andi baru saja membeli 5 buku tulis. Setiap buku harganya Rp 3.000,00. Maka Andi bisa membayarnya dengan ….",
     answers: [
@@ -404,3 +405,4 @@
       { id: "4", text: "1/6" }
     ]
   }
+]
