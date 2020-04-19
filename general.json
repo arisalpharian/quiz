@@ -1,27 +1,20 @@
 [
-{
-"question": "",
-"answers": [
-    {
-      "id": 1,
-      "text": "",
-      "correct": false
-    },
-    {
-      "id": 2,
-      "text": "",
-      "correct": false
-    },
-    {
-      "id": 3,
-      "text": "",
-      "correct": false
-    },
-    {
-      "id": 4,
-      "text": "",
-      "correct": true
-    }
-  ]
-}
+  {
+    question: "Planet kelima dari matahari adalah..",
+    answers: [
+      { id: "1", text: "Mars" },
+      { id: "2", text: "Jupiter", correct: true },
+      { id: "3", text: "Saturnus" },
+      { id: "4", text: "Venus" }
+    ]
+  },
+  {
+    question: "Sabar...",
+    answers: [
+      { id: "1", text: "a" },
+      { id: "2", text: "b" },
+      { id: "3", text: "c" },
+      { id: "4", text: "d" }
+    ]
+  }
 ]
