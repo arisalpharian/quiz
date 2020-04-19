@@ -22,23 +22,464 @@
          ]
       },
       {
-         "question":"Sabar...",
+         "question":"Di planet manakah kita tinggal?",
          "answers":[
             {
                "id":"1",
-               "text":"a"
+               "text":"Venus"
             },
             {
                "id":"2",
-               "text":"b"
+               "text":"Merkurius"
             },
             {
                "id":"3",
-               "text":"c"
+               "text":"Bumi",
+               "correct":true
             },
             {
                "id":"4",
-               "text":"d"
+               "text":"Mars"
+            }
+         ]
+      },
+      {
+         "question":"Samudera manakah yang terbesar di dunia?",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Samudera Atlantik"
+            },
+            {
+               "id":"2",
+               "text":"Samudera Artik"
+            },
+            {
+               "id":"3",
+               "text":"Samudera Pasifik",
+               "correct":true
+            },
+            {
+               "id":"4",
+               "text":"Samudera Hindia"
+            }
+         ]
+      },
+      {
+         "question":"Angka romawi berapakah ini IX?",
+         "answers":[
+            {
+               "id":"1",
+               "text":"9",
+               "correct":true
+            },
+            {
+               "id":"2",
+               "text":"100"
+            },
+            {
+               "id":"3",
+               "text":"7"
+            },
+            {
+               "id":"4",
+               "text":"11"
+            }
+         ]
+      },
+      {
+         "question":"Bilangan prima apa yang terkecil?",
+         "answers":[
+            {
+               "id":"1",
+               "text":"0"
+            },
+            {
+               "id":"2",
+               "text":"1"
+            },
+            {
+               "id":"3",
+               "text":"2",
+               "correct":true
+            },
+            {
+               "id":"4",
+               "text":"-1"
+            }
+         ]
+      },
+      {
+         "question":"Berapa banyak tulang yang dimiliki pria dewasa / wanita dewasa yang sehat?",
+         "answers":[
+            {
+               "id":"1",
+               "text":"206",
+               "correct":true
+            },
+            {
+               "id":"2",
+               "text":"308"
+            },
+            {
+               "id":"3",
+               "text":"102"
+            },
+            {
+               "id":"4",
+               "text":"509"
+            }
+         ]
+      },
+      {
+         "question":"Manakah dari planet berikut yang terdekat dengan Bumi?",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Venus"
+            },
+            {
+               "id":"2",
+               "text":"Merkurius"
+            },
+            {
+               "id":"3",
+               "text":"Mars",
+               "correct":true
+            },
+            {
+               "id":"4",
+               "text":"Jupiter"
+            }
+         ]
+      },
+      {
+         "question":"Apa nama benua terluas di dunia?",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Asia",
+               "correct":true
+            },
+            {
+               "id":"2",
+               "text":"Afrika"
+            },
+            {
+               "id":"3",
+               "text":"Amerika"
+            },
+            {
+               "id":"4",
+               "text":"Eropa"
+            }
+         ]
+      },
+      {
+         "question":"Negara manakah yang memiliki wilayah terluas di dunia?",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Rusia",
+               "correct":true
+            },
+            {
+               "id":"2",
+               "text":"Indonesia"
+            },
+            {
+               "id":"3",
+               "text":"Amerika"
+            },
+            {
+               "id":"4",
+               "text":"Singapura"
+            }
+         ]
+      },
+      {
+         "question":" Sebutan teropong yang digunakan pada kapal selam",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Teleskop"
+            },
+            {
+               "id":"2",
+               "text":"Mikroskop"
+            },
+            {
+               "id":"3",
+               "text":"Periskop",
+               "correct":true
+            },
+            {
+               "id":"4",
+               "text":"Teropong bintang"
+            }
+         ]
+      },
+      {
+         "question":"Nama sungai terpanjang dan terluas di dunia",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Niagara"
+            },
+            {
+               "id":"2",
+               "text":"Missisipi"
+            },
+            {
+               "id":"3",
+               "text":"Nil"
+            },
+            {
+               "id":"4",
+               "text":"Amazon",
+               "correct":true
+            }
+         ]
+      },
+      {
+         "question":"Gurun terluas di dunia",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Gobi"
+            },
+            {
+               "id":"2",
+               "text":"Sahara",
+               "correct":true
+            },
+            {
+               "id":"3",
+               "text":"Kalahari"
+            },
+            {
+               "id":"4",
+               "text":"Arabia"
+            }
+         ]
+      },
+      {
+         "question":"Pulau terluas di Indonesia",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Jawa"
+            },
+            {
+               "id":"2",
+               "text":"Sumatera"
+            },
+            {
+               "id":"3",
+               "text":"Kalimantan",
+               "correct":true
+            },
+            {
+               "id":"4",
+               "text":"Papua"
+            }
+         ]
+      },
+      {
+         "question":"Jumlah propinsi di Indonesia",
+         "answers":[
+            {
+               "id":"1",
+               "text":"27"
+            },
+            {
+               "id":"2",
+               "text":"34",
+               "correct":true
+            },
+            {
+               "id":"3",
+               "text":"32"
+            },
+            {
+               "id":"4",
+               "text":"33"
+            }
+         ]
+      },
+      {
+         "question":"Mamalia terbesar di dunia",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Paus",
+               "correct":true
+            },
+            {
+               "id":"2",
+               "text":"Gajah"
+            },
+            {
+               "id":"3",
+               "text":"Orang Utan"
+            },
+            {
+               "id":"4",
+               "text":"Hiu"
+            }
+         ]
+      },
+      {
+         "question":"Ikan yang bernafas dengan paru-paru",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Paus",
+               "correct":true
+            },
+            {
+               "id":"2",
+               "text":"Gurame"
+            },
+            {
+               "id":"3",
+               "text":"Lee"
+            },
+            {
+               "id":"4",
+               "text":"Hiu"
+            }
+         ]
+      },
+      {
+         "question":"Batu terkeras di dunia",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Zamrud"
+            },
+            {
+               "id":"2",
+               "text":"Berlian"
+            },
+            {
+               "id":"3",
+               "text":"Intan",
+               "correct":true
+            },
+            {
+               "id":"4",
+               "text":"Cadas"
+            }
+         ]
+      },
+      {
+         "question":"Bapak pendidikan nasional",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Bung Tomo"
+            },
+            {
+               "id":"2",
+               "text":"Sukarno"
+            },
+            {
+               "id":"3",
+               "text":"Ki Hajar Dewantoro",
+               "correct":true
+            },
+            {
+               "id":"4",
+               "text":"Bung Hatta"
+            }
+         ]
+      },
+      {
+         "question":"Sungai terpanjang di Indonesia",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Musi"
+            },
+            {
+               "id":"2",
+               "text":"Kapuas",
+               "correct":true
+            },
+            {
+               "id":"3",
+               "text":"Bengawan Solo"
+            },
+            {
+               "id":"4",
+               "text":"Brantas"
+            }
+         ]
+      },
+      {
+         "question":"Hewan yang menyebabkan penyakit PES",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Kucing"
+            },
+            {
+               "id":"2",
+               "text":"Anjing"
+            },
+            {
+               "id":"3",
+               "text":"Kelelawar"
+            },
+            {
+               "id":"4",
+               "text":"Tikus",
+               "correct":true
+            }
+         ]
+      },
+      {
+         "question":"Hewan yang hidup di air dan daratan",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Amfibi",
+               "correct":true
+            },
+            {
+               "id":"2",
+               "text":"Vertebrata"
+            },
+            {
+               "id":"3",
+               "text":"Moluska"
+            },
+            {
+               "id":"4",
+               "text":"Mamalia"
+            }
+         ]
+      },
+      {
+         "question":"Organisasi PBB yang mengusahakan keadilan sosial ekonomi dan meningkatkan taraf hidup buruh pekerja",
+         "answers":[
+            {
+               "id":"1",
+               "text":"UNICEF"
+            },
+            {
+               "id":"2",
+               "text":"ILO",
+               "correct":true
+            },
+            {
+               "id":"3",
+               "text":"UNESCO"
+            },
+            {
+               "id":"4",
+               "text":"WHO"
             }
          ]
       }
