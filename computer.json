@@ -1,44 +1,296 @@
 [
          {
-         "question":"Planet kelima dari matahari adalah..",
+         "question":"Menyalakan komputer pertamakali dengan menekan tombol…",
          "answers":[
             {
                "id":"1",
-               "text":"Mars"
-            },
-            {
-               "id":"2",
-               "text":"Jupiter",
+               "text":"Tombol On pada Motherboard",
                "correct":true
             },
             {
+               "id":"2",
+               "text":"Tombol Of pada Motherboard"
+            },
+            {
                "id":"3",
-               "text":"Saturnus"
+               "text":"Tombol Restart"
             },
             {
                "id":"4",
-               "text":"Venus"
+               "text":"Tombol Enter pada keyboard"
             }
          ]
       },
       {
-         "question":"Sabar...",
+         "question":"Mengetikan huruf atau angka menggunakan…",
          "answers":[
             {
                "id":"1",
-               "text":"a"
+               "text":"Mouse"
             },
             {
                "id":"2",
-               "text":"b"
+               "text":"Monitor"
             },
             {
                "id":"3",
-               "text":"c"
+               "text":"Keyboard"
             },
             {
                "id":"4",
-               "text":"d"
+               "text":"Motherboard"
+            }
+         ]
+      },
+      {
+         "question":"Menggerakan kursor menggunakan…",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Monitor"
+            },
+            {
+               "id":"2",
+               "text":"Mouse"
+            },
+            {
+               "id":"3",
+               "text":"Keyboard"
+            },
+            {
+               "id":"4",
+               "text":"Motherboard"
+            }
+         ]
+      },
+      {
+         "question":"Program Accessories untuk mewarnai adalah…",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Paint"
+            },
+            {
+               "id":"2",
+               "text":"Wordpad"
+            },
+            {
+               "id":"3",
+               "text":"Word"
+            },
+            {
+               "id":"4",
+               "text":"Winamp"
+            }
+         ]
+      },
+      {
+         "question":"Menu untuk mewarnai pada Paint…",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Fill with color"
+            },
+            {
+               "id":"2",
+               "text":"Text"
+            },
+            {
+               "id":"3",
+               "text":"Shapes"
+            },
+            {
+               "id":"4",
+               "text":"Open"
+            }
+         ]
+      },
+      {
+         "question":"Di Paint menu untuk menghapus adalah…",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Shapes"
+            },
+            {
+               "id":"2",
+               "text":"Text"
+            },
+            {
+               "id":"3",
+               "text":"Eraser"
+            },
+            {
+               "id":"4",
+               "text":"Fill With Color"
+            }
+         ]
+      },
+      {
+         "question":"Untuk belajar mengetik menggunakan program…",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Paint"
+            },
+            {
+               "id":"2",
+               "text":"Calculator"
+            },
+            {
+               "id":"3",
+               "text":"Winamp"
+            },
+            {
+               "id":"4",
+               "text":"Wordpad"
+            }
+         ]
+      },
+      {
+         "question":"Untuk pindah baris menggunakan tombol… pada keyboard",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Space"
+            },
+            {
+               "id":"2",
+               "text":"Enter"
+            },
+            {
+               "id":"3",
+               "text":"Backspace"
+            },
+            {
+               "id":"4",
+               "text":"Delete"
+            }
+         ]
+      },
+      {
+         "question":"Menghapus bisa menggunakan tombol… pada keyboard",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Delete"
+            },
+            {
+               "id":"2",
+               "text":"Shift"
+            },
+            {
+               "id":"3",
+               "text":"Enter"
+            },
+            {
+               "id":"4",
+               "text":"CTRL"
+            }
+         ]
+      },
+      {
+         "question":"Huruf yang bisa dijangkau oleh jari-jari tangan kiri pada keyboard adalah…",
+         "answers":[
+            {
+               "id":"1",
+               "text":"KLOP"
+            },
+            {
+               "id":"2",
+               "text":"MIOP"
+            },
+            {
+               "id":"3",
+               "text":"MIKO"
+            },
+            {
+               "id":"4",
+               "text":"ASDE"
+            }
+         ]
+      },
+      {
+         "question":"Untuk memunculkan tanda ! kita tekan bersamaan tombol… pada keyboard",
+         "answers":[
+            {
+               "id":"1",
+               "text":"CTRL dan FN"
+            },
+            {
+               "id":"2",
+               "text":"Shift dan tombol angka 1"
+            },
+            {
+               "id":"3",
+               "text":"Shift dan tombol angka 2"
+            },
+            {
+               "id":"4",
+               "text":"Shift dan tombol angka 3"
+            }
+         ]
+      },
+      {
+         "question":"Untuk merubah huruf menjadi kapital tekan tombol… pada keyboard",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Enter"
+            },
+            {
+               "id":"2",
+               "text":"Shift"
+            },
+            {
+               "id":"3",
+               "text":"Capslock"
+            },
+            {
+               "id":"4",
+               "text":"Backspace"
+            }
+         ]
+      },
+      {
+         "question":"Untuk memberi jarak / spasi tekan tombol…",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Enter"
+            },
+            {
+               "id":"2",
+               "text":"Space"
+            },
+            {
+               "id":"3",
+               "text":"Capslock"
+            },
+            {
+               "id":"4",
+               "text":"Delete"
+            }
+         ]
+      },
+      {
+         "question":"Menekan tombol Shift dan angka 8 akan menampilkan tanda…",
+         "answers":[
+            {
+               "id":"1",
+               "text":"!"
+            },
+            {
+               "id":"2",
+               "text":"@"
+            },
+            {
+               "id":"3",
+               "text":"$"
+            },
+            {
+               "id":"4",
+               "text":"*"
             }
          ]
       }
