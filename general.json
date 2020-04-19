@@ -66,7 +66,7 @@
          ]
       },
       {
-         "question":"Angka romawi berapakah ini IX?",
+         "question":"Angka romawi berapakah IX?",
          "answers":[
             {
                "id":"1",
@@ -198,7 +198,7 @@
          ]
       },
       {
-         "question":" Sebutan teropong yang digunakan pada kapal selam",
+         "question":"Sebutan teropong yang digunakan pada kapal selam",
          "answers":[
             {
                "id":"1",
@@ -480,6 +480,73 @@
             {
                "id":"4",
                "text":"WHO"
+            }
+         ]
+      },
+      {
+         "question":"Candi Borubur merupakan candi agama?",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Hindu"
+            },
+            {
+               "id":"2",
+               "text":"Islam"
+            },
+            {
+               "id":"3",
+               "text":"Budda",
+               "correct":true
+            },
+            {
+               "id":"4",
+               "text":"Kristen"
+            }
+         ]
+      },
+      {
+         "question":" Alat yang digunakan untuk mengukur kecepatan",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Speedometer",
+               "correct":true
+            },
+            {
+               "id":"2",
+               "text":"Termometer"
+            },
+            {
+               "id":"3",
+               "text":"Mikrometer"
+            },
+            {
+               "id":"4",
+               "text":"Higrometer"
+            }
+         ]
+      },
+      {
+         "question":"Gunung tertinggi di Indonesia",
+         "answers":[
+            {
+               "id":"1",
+               "text":"Puncak Jaya",
+               "correct":true
+            },
+            {
+               "id":"2",
+               "text":"Kerinci",
+               "correct":true
+            },
+            {
+               "id":"3",
+               "text":"Rinjani"
+            },
+            {
+               "id":"4",
+               "text":"Semeru"
             }
          ]
       }
