@@ -1,23 +1,23 @@
 [
   {
-    "soal": "Andi baru saja membeli 5 buku tulis. Setiap buku harganya Rp 5.000,00. Jika Andi membayar dengan uang lima ribuan, Berapa lembarkah Andi harus membayarnya ?",
-    "jawaban": 5
+    "soal": "Andi baru saja membeli 5 buku tulis. Setiap buku harganya Rp 4.000,00. Jika Andi membayar dengan uang sepuluh ribuan, Berapa lembarkah Andi harus membayarnya ?",
+    "jawaban": 2
   },
   {
-    "soal": "Pak Doni menjual kambingnya kepada Pak Dedi. Pak Dedi membayarnya dengan 10 lembar lima puluh ribuan. Hal itu berarti harga kambing Pak Doni adalah ...",
-    "jawaban": 500000
+    "soal": "Pak Doni menjual kambingnya kepada Pak Dedi. Pak Dedi membayarnya dengan 8 lembar lima puluh ribuan. Hal itu berarti harga kambing Pak Doni adalah ...",
+    "jawaban": 400000
   },
   {
-    "soal": "124, 151, 118, 135, 142, 119\nDari bilangan – bilangan di atas maka bilangan yang terbesar ialah ...",
-    "jawaban": 151
+    "soal": "124, 151, 118, 135, 142, 119\nDari bilangan – bilangan di atas maka bilangan yang terkecil ialah ...",
+    "jawaban": 118
   },
   {
-    "soal": "Selisih nilai angka 8 dan 7 pada bilangan 7.890 adalah ...",
-    "jawaban": 6200
+    "soal": "Selisih nilai angka 9 dan 7 pada bilangan 7.890 adalah ...",
+    "jawaban": 6910
   },
   {
-    "soal": "Hasil penjumlahan dari nilai angka 5 dan 7 pada bilangan 7.045 adalah ...",
-    "jawaban": 7005
+    "soal": "Hasil penjumlahan dari nilai angka 7 dan 4 pada bilangan 7.045 adalah ...",
+    "jawaban": 7040
   },
   {
     "soal": "Bangun segiempat mempunyai sisi yang sama sebanyak ...",
@@ -40,103 +40,111 @@
     "jawaban": 3
   },
   {
-    "soal": "Sebuah persegi mempunyai sisi sepanjang 12 cm. Maka kelilingnya ialah ... cm",
-    "jawaban": 48
-  },
-  {
-    "soal": "Luas sisi pada persegi yang panjang 13 cm ialah ... cm",
-    "jawaban": 169
-  },
-  {
-    "soal": "Berapa menitkah dalam 3 jam ?",
-    "jawaban": 180
-  },
-  {
-    "soal": "Yaya suka membuat boneka dari kain flanel. Dalam satu hari, dia bisa membuat hingga 15 buah boneka. Berapa buah boneka yang bisa dibuat oleh Yaya dalam 5 hari?",
-    "jawaban": 75
-  },
-  {
-    "soal": "Pohon mangga kakek berbuah sangat lebat. Pada saat panen, kakek ingin menjual mangga-manganya ke pasar. Kakek membungkusnya menjadi 12 kantong. Tiap kantongnya berisi 8 butir mangga. Berapakah jumlah keseluruhan mangga milik kakek yang dibawa atau dijualnya di pasar?",
-    "jawaban": 96
-  },
-  {
-    "soal": "Mas Gendut memiliki peternakan ayam yang besar. Dia memiliki 5 buah kandang. Sebanyak 4 (empat) kandang ayam milik Mas Gendut berisi ayam betina, dan 1 (satu) kandang berisi ayam jantan. 4 kandang ayam betinanya masing-masing berisi 25 ekor ayam betina. Sedangkan 1 kandang ayam jantan berisi 34 ayam jantan. Berapakah jumlah seluruh ayam milik Mas Gendut?",
-    "jawaban": 134
-  },
-  {
-    "soal": "Jano sangat gemar membaca buku. Setiap hari, dia membaca sebanyak 25 halaman buku. Berapa jumlah halaman buku yang dibaca Jano, apabila Jano membaca bukunya tiap hari dalam bulan Oktober?",
-    "jawaban": 775
-  },
-  {
-    "soal": "Tutu membeli 28 butir kelereng. Jika setiap butir kelereng seharga Rp 500,00 berapa jumlah uang yang harus dibayarkan oleh Tutu?",
-    "jawaban": 14000
-  },
-  {
-    "soal": "Jumlah anggota pramuka kelas 3 adalah 32 anak. Jika setiap anggota mendapat 13 bendera, berapa jumlah seluruh bendera tersebut?",
-    "jawaban": 416
-  },
-  {
-    "soal": "Indro membawa 15 kotak coklat. Setiap kotak berisi 20 batang coklat. Berapa batang coklat seluruhnya yang dibawa Indro?",
-    "jawaban": 300
-  },
-  {
-    "soal": "Suatu hari Ibu guru membawa 208 batang pensil warna ke sekolah untuk diberikan kepada murid-muridnya. Apabila setiap murid mendapat 4 batang pensil, berapakah jumlah murid Bu Guru?",
+    "soal": "Sebuah persegi mempunyai sisi sepanjang 13 cm. Maka kelilingnya ialah ... cm",
     "jawaban": 52
   },
   {
-    "soal": "Dono sedang belajar menggambar. Setiap hari dia menggambar dan menghabiskan 9 lembar kertas putih. Apabila Dono memiliki 360 lembar kertas putih, maka berapa harikah kertas putih Dono tersebut akan habis digunakan?",
+    "soal": "Luas sisi pada persegi yang panjang 12 cm ialah ... cm",
+    "jawaban": 144
+  },
+  {
+    "soal": "Berapa menitkah dalam 4 jam ?",
+    "jawaban": 240
+  },
+  {
+    "soal": "Yaya suka membuat boneka dari kain flanel. Dalam satu hari, dia bisa membuat hingga 10 buah boneka. Berapa buah boneka yang bisa dibuat oleh Yaya dalam seminggu?",
+    "jawaban": 70
+  },
+  {
+    "soal": "Pohon mangga kakek berbuah sangat lebat. Pada saat panen, kakek ingin menjual mangga-manganya ke pasar. Kakek membungkusnya menjadi 10 kantong. Tiap kantongnya berisi 12 butir mangga. Berapakah jumlah keseluruhan mangga milik kakek yang dibawa atau dijualnya di pasar?",
+    "jawaban": 120
+  },
+  {
+    "soal": "Mas Gendut memiliki peternakan ayam yang besar. Dia memiliki 4 buah kandang. Sebanyak 3 (tiga) kandang ayam milik Mas Gendut berisi ayam betina, dan 1 (satu) kandang berisi ayam jantan. 3 kandang ayam betinanya masing-masing berisi 30 ekor ayam betina. Sedangkan 1 kandang ayam jantan berisi 36 ayam jantan. Berapakah jumlah seluruh ayam milik Mas Gendut?",
+    "jawaban": 126
+  },
+  {
+    "soal": "Jano sangat gemar membaca buku. Setiap hari, dia membaca sebanyak 20 halaman buku. Berapa jumlah halaman buku yang dibaca Jano, apabila Jano membaca bukunya tiap hari dalam bulan April?",
+    "jawaban": 600
+  },
+  {
+    "soal": "Tutu membeli 27 butir kelereng. Jika setiap butir kelereng seharga Rp 1000,00 berapa jumlah uang yang harus dibayarkan oleh Tutu?",
+    "jawaban": 27000
+  },
+  {
+    "soal": "Jumlah anggota pramuka kelas 3 adalah 34 anak. Jika setiap anggota mendapat 14 bendera, berapa jumlah seluruh bendera tersebut?",
+    "jawaban": 476
+  },
+  {
+    "soal": "Indro membawa 20 kotak coklat. Setiap kotak berisi 12 batang coklat. Berapa batang coklat seluruhnya yang dibawa Indro?",
+    "jawaban": 240
+  },
+  {
+    "soal": "Suatu hari Ibu guru membawa 200 batang pensil warna ke sekolah untuk diberikan kepada murid-muridnya. Apabila setiap murid mendapat 5 batang pensil, berapakah jumlah murid Bu Guru?",
     "jawaban": 40
   },
   {
-    "soal": "Ibu mengadakan pertemuan rutin di rumah. Untuk menjamu tamu-tamu yang datang, Ibu menyiapkan 270 buah jajan kudapan/snack. Jajan tersebut ditaruh di dalam kardus kecil. Apabila tiap-tiap kardus berisi 10 buah jajan, berapakah jumlah seluruh tamu Ibu dalam pertemuan tersebut?",
-    "jawaban": 27
+    "soal": "Dono sedang belajar menggambar. Setiap hari dia menggambar dan menghabiskan 8 lembar kertas putih. Apabila Dono memiliki 400 lembar kertas putih, maka berapa harikah kertas putih Dono tersebut akan habis digunakan?",
+    "jawaban": 50
   },
   {
-    "soal": "3 Kilometer = ... meter",
-    "jawaban": 3000
+    "soal": "Ibu mengadakan pertemuan rutin di rumah. Untuk menjamu tamu-tamu yang datang, Ibu menyiapkan 270 buah jajan kudapan/snack. Jajan tersebut ditaruh di dalam kardus kecil. Apabila tiap-tiap kardus berisi 9 buah jajan, berapakah jumlah seluruh tamu Ibu dalam pertemuan tersebut?",
+    "jawaban": 30
   },
   {
-    "soal": "1 menit sama dengan ... detik",
+    "soal": "2 km + 600 cm = ... meter",
+    "jawaban": 2006
+  },
+  {
+    "soal": "3 menit sama dengan ... detik",
     "jawaban": 60
   },
   {
-    "soal": "Santi sedang mengukur panjang pita miliknya. Panjang pita menunjukkan 4 meter lebih 55 cm. Berapakah panjang pita dalam satuan sentimeter ?",
-    "jawaban": 455
+    "soal": "300 detik sama dengan ... menit",
+    "jawaban": 5
   },
   {
-    "soal": "4 Km + 450 m = ... m",
-    "jawaban": 4450
+    "soal": "Santi sedang mengukur panjang pita miliknya. Panjang pita menunjukkan 3 meter lebih 85 cm. Berapakah panjang pita dalam satuan sentimeter ?",
+    "jawaban": 385
+  },
+  {
+    "soal": "5 Km + 40 m = ... m",
+    "jawaban": 5040
   },
   {
     "soal": "8 Kg + 25 Ons = ... Ons",
     "jawaban": 105
   },
   {
-    "soal": "2 minggu + 10 hari = ... hari",
-    "jawaban": 24
+    "soal": "4 Kg + 250 Ons = ... Kg",
+    "jawaban": 29
   },
   {
-    "soal": "Bayu memiliki tali sepanjang 2 m, Reni memiliki tali sepanjang 125 cm dan Edo memiliki tali sepanjang 4 m. Berapa sentimeterkah panjang tali mereka bertiga jika dijumlahkan?",
-    "jawaban": 725
+    "soal": "3 minggu + 10 hari = ... hari",
+    "jawaban": 31
+  },
+  {
+    "soal": "Bayu memiliki tali sepanjang 3 m, Reni memiliki tali sepanjang 125 cm dan Edo memiliki tali sepanjang 4 m. Berapa sentimeterkah panjang tali mereka bertiga jika dijumlahkan?",
+    "jawaban": 825
   },
   {
     "soal": "Ibu membeli buah apel seberat 2 Kg, buah jeruk seberat 3 Kg, dan buah mangga seberat 50 ons. Maka berapa ons Jumlah berat buah yang dibeli oleh ibu semuanya?",
     "jawaban": 100
   },
   {
-    "soal": "Setiap minggu Andi berlatih renang selama 2 jam, berlatih sepak bola 3 jam, dan belajar pencak silat selama 150 menit. Berapa menitkah Andi berlatih renang dan pencak silat?",
-    "jawaban": 270
+    "soal": "Setiap minggu Andi berlatih renang selama 2 jam, berlatih sepak bola 3 jam, dan belajar pencak silat selama 150 menit. Berapa menitkah Andi berlatih renang, sepak bola dan pencak silat?",
+    "jawaban": 450
   },
   {
-    "soal": "Fera dan keluarganya liburan ke Bali selama 2 minggu. Kemudian berlibur ke rumah neneknya di Surabaya selama 10 hari. Berapa harikah total liburan Fera bersama keluarganya?",
-    "jawaban": 24
+    "soal": "Fera dan keluarganya liburan ke Bali selama 3 minggu. Kemudian berlibur ke rumah neneknya di Surabaya selama 5 hari. Berapa harikah total liburan Fera bersama keluarganya?",
+    "jawaban": 28
   },
   {
-    "soal": "Hasil dari 105 - 6 x 6 = ",
+    "soal": "Hasil dari 105 - 5 x 6 = ",
     "jawaban": 69
   },
   {
-    "soal": "Hasil dari 90 – 6 x 6 =",
-    "jawaban": 54
+    "soal": "Hasil dari 90 + 18 : 2 =",
+    "jawaban": 99
   }
 ]
